@@ -1,0 +1,4 @@
+**/*.pyc
+**/*.egg
+
+gym_boxworld.egg-info/
